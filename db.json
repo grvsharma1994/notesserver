@@ -1,0 +1,28 @@
+{
+  "note_user":[
+    {
+      "id": 1,
+      "title": "Full Stack Web Developer",
+      "description": "I want to Become a good Full Stack Web Deveploper",
+      "date":"21-01-2023"
+    },
+    {
+      "id": 2,
+      "title": "Job",
+      "description": "I want to work in good IT Company",
+      "date":"21-01-2023"
+    },
+    {
+      "id": 3,
+      "title": "Projects",
+      "description": "I have Completed more than 10 Major Projects During Masai Journey",
+      "date":"21-01-2023"
+    },
+    {
+      "id": 4,
+      "title": "Skills",
+      "description": "I have knowledge of Frontend Skills and Backend Skills",
+      "date":"21-01-2023"
+    }
+  ]
+}
